@@ -1,5 +1,5 @@
 # Project-1: Holidays
-Welcome to the Holidays app! This app helps travelers to plan their trips better by providing them with public holidays around the world. With this data, travelers can easily see what countries have holidays and long weekends in 2023.
+Welcome to the Holidays app! This app helps users plan trips by providing them with the celebrated public holidays around the world.  With this data, travelers can easily see what countries have holidays and long weekends in 2023.
 
 To find holidays for a specific country, simply type the name of the country in the search form located at the homepage and click the search button. This will display two tables: one for the 2023 holidays for the country you searched and another for the long weekends.
 
